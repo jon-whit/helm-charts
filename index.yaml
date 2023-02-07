@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   openfga:
   - apiVersion: v2
-    appVersion: v0.3.2
+    appVersion: v0.3.4
     created: "2023-02-07T16:56:03.828249145Z"
     description: A Kubernetes Helm chart for the OpenFGA project.
     digest: 64cc11f172825baee26845b8e103384685a75e49333072f2fe550a452c42d222
