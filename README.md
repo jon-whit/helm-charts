@@ -1,5 +1,5 @@
 # Helm Charts Curated by jon-whit
-Various Helm charts maintained by your's truely ;)!
+Various Helm charts maintained by your's truely @jon-whit!
 
 ## Charts
 
