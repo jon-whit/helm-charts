@@ -1,0 +1,7 @@
+apiVersion: v2
+name: openfga
+description: A Kubernetes Helm chart for the OpenFGA project.
+
+type: application
+version: 0.1.0
+appVersion: "v0.3.2"
